@@ -105,7 +105,7 @@ All diagrams below are based on Teensy 4.0 microcontroller and GY85 IMU. Click t
 
 #### 4.5 Otomoov2 Wiring
 
-![Otomoov2 Wiring](docs/Otomoov2_Wiring_0.5.2.jpg)
+![Otomoov2 Wiring](docs/Otomoov2_Wiring_0.5.3.jpg)
 
 Take note of the IMU's correct orientation when mounted on the robot. Ensure that the IMU's axes are facing the correct direction:
 
